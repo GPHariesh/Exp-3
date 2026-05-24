@@ -26,16 +26,19 @@ To study the problem statement ,SRS document and draw the UML diagram of railway
 # DIAGRAMS:
 (upload all 6 diagrams)
 # Use Case Diagram:
-<img width="1138" height="891" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/c44eeb16-20fa-47e9-a567-3b677f0452ed" />
+<img width="1186" height="891" alt="UseCaseDiagram1" src="https://github.com/user-attachments/assets/8fb4d356-e662-4a96-ab0b-a599804177b9" />
+
 
 
 # Class Diagram:
-<img width="1181" height="922" alt="class 2" src="https://github.com/user-attachments/assets/a9d339cc-bf0e-4a62-b13d-cef7cb529c7e" />
+<img width="1071" height="791" alt="ClassDiagram1" src="https://github.com/user-attachments/assets/b3fb71a5-7138-4631-aafb-6c17088da97d" />
+
 
 
 # Activity Diagram:
 
-<img width="538" height="1003" alt="ActivityDiagram2" src="https://github.com/user-attachments/assets/f2363bf3-2cea-402f-952d-3a83cb9d1b3a" />
+<img width="613" height="1083" alt="activity" src="https://github.com/user-attachments/assets/6ad30a64-054f-4f69-b4f8-9673c42877b0" />
+
 
 
 # Package Diagram:
@@ -45,12 +48,14 @@ To study the problem statement ,SRS document and draw the UML diagram of railway
 
 # Communication Diagram:
 
-<img width="1242" height="932" alt="CommunicationDiagram1" src="https://github.com/user-attachments/assets/38414041-5fa6-4053-9109-8c08e8b7c404" />
+<img width="926" height="801" alt="communication" src="https://github.com/user-attachments/assets/da5b1594-fad9-426d-94c0-91f7118e5cbb" />
+
 
 
 # Sequence Diagram:
 
-<img width="1272" height="902" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/0244a031-6baa-443e-9e72-371f718177d9" />
+<img width="1212" height="892" alt="SequenceDiagram1" src="https://github.com/user-attachments/assets/9b5b41e8-286e-42ce-b017-ed2c70c6621f" />
+
 
 
 
